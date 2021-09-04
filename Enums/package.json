@@ -1,0 +1,21 @@
+{
+  "name": "enums2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "start2": "nodemon src/index2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.5.1"
+  }
+}
